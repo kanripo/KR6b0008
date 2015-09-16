@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:39.776491
+#+DATE: 2015-08-30 19:33:44.054539
 #+TITLE: 大乘本生心地觀經
 #+PROPERTY: CBETA_ID T03n0159
 #+PROPERTY: ID KR6b0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 159
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0008_T_002-0296b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大乘本生心地觀經》卷第二¶
+《大乘本生心地觀經》卷第二¶
 ¶
 大唐罽賓國三藏般若奉　詔譯¶
 
-2報恩品
-:PROPERTIES:
-:head: 報恩品第二之上
-:END:
-¶
+報恩品第二之上¶
 
 爾時，世尊從三昧安詳而起，告彌勒菩薩摩¶
 訶薩言：「善哉善哉！汝等大士！諸善男子！¶
@@ -59,7 +54,7 @@
 所修行願，皆悉不是知恩報恩。何以故？遠
 <pb:KR6b0008_T_002-0297a>¶
 離父母趣於出家，以自妻子施於所欲，頭¶
-目髓腦隨其願求，悉皆布施受諸逼惱，三僧¶
+目隨腦隨其願求，悉皆布施受諸逼惱，三僧¶
 祇劫具修諸度八萬四千波羅蜜行，越生死¶
 流，方至菩提大安樂處。不如趣向二乘道¶
 果，三生百劫修集資糧，斷生死因證涅槃¶
