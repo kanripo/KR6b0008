@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:39.796854
+#+DATE: 2015-08-30 19:33:43.575280
 #+TITLE: 大乘本生心地觀經
 #+PROPERTY: CBETA_ID T03n0159
 #+PROPERTY: ID KR6b0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 159
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0008_T_003-0301a> ¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《大乘本生心地觀經》卷第三¶
+《大乘本生心地觀經》卷第三¶
 ¶
 大唐罽賓國三藏般若奉　詔譯¶
 報恩品第二之下¶
@@ -191,7 +190,7 @@
 　七名安隱八教授，¶
 　九教誡者十與業，
 　餘恩不過於母恩。¶
-　何法世間最富有？
+　何法出間最富有？
 　何法世間最貧無？¶
 　母在堂時為最富，
 　母不在時為最貧。¶
