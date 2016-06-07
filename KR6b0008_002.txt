@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:39.776491
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:50
 #+TITLE: 大乘本生心地觀經
 #+PROPERTY: CBETA_ID T03n0159
 #+PROPERTY: ID KR6b0008
@@ -16,7 +16,8 @@
 ¶
 大唐罽賓國三藏般若奉　詔譯¶
 
-2報恩品
+* 2報恩品
+** 1
 :PROPERTIES:
 :head: 報恩品第二之上
 :END:
