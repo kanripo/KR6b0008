@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:40.670247
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:51
 #+TITLE: 大乘本生心地觀經
 #+PROPERTY: CBETA_ID T03n0159
 #+PROPERTY: ID KR6b0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 159
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6b0008_T_002-0296b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -15,7 +15,7 @@
 ¶
 大唐罽賓國三藏般若奉　詔譯¶
 
-報恩品第二之上¶
+* 報恩品第二之上¶
 
 爾時，世尊從三昧安詳而起，告彌勒菩薩摩¶
 訶薩言：「善哉善哉！汝等大士！諸善男子！¶
